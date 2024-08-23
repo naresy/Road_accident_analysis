@@ -1,7 +1,4 @@
 # PBI-Road-Acccident-Analysis
-
-![Dashboard Image](https://github.com/IsaacMwendwa/PBI-Road-Accident-Analysis/blob/main/Final%20Dashboard%20Image.PNG "Final Dashboard Image")
-
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Dashboard Requirements](#Dashboard-Requirements)
@@ -12,7 +9,7 @@
   
 ## Introduction
 * This project is aimed at developing a Power BI Dashboard for generating insights about road accident data in the United Kingdom.
-* The dataset can be accessed from this link: [Road Accident Data (UK)](https://drive.google.com/drive/folders/1G3BFBOcSn-i-8aJ6c_MgGWJzhYWM_Okb?usp=sharing)
+
   
 ## Dashboard Requirements
 * Primary KPI's - Total Casualties and Total Accident values for Current Year and YoY Growth
@@ -59,9 +56,9 @@ If you find a bug (the dashboard gave undesired results), kindly open an issue [
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/IsaacMwendwa/Power-BI-Road-Accidents-Analysis-Dashboard/issues/new). Please include sample queries and their corresponding results.
 
 ## Authors
-* **[Isaac Mwendwa](https://github.com/IsaacMwendwa)**
+* **[Naresh Upadhyay]([https://github.com/IsaacMwendwa](https://github.com/naresy))**
     
-[![github follow](https://img.shields.io/github/followers/IsaacMwendwa?label=Follow_on_GitHub)](https://github.com/IsaacMwendwa)
+[![github follow](https://img.shields.io/github/followers/naresy?label=Follow_on_GitHub)](https://github.com/naresy)
 
 
 
